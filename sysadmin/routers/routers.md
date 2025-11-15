@@ -82,15 +82,3 @@ Then configure UDM Pro to use that server as your DHCP DNS provider.
 
 ---
 
-# If you want, I can prepare:
-
-- a short **UDM Pro local DNS guide**
-    
-- setup for **Raspberry Pi + Technitium + UDM Pro**
-    
-- **split DNS** configuration (internal/external)
-    
-- guide for **Cloudflare Tunnel + internal DNS**
-    
-
-Choose the direction that fits your setup best.
